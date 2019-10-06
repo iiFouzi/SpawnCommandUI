@@ -1,9 +1,0 @@
-name: SpawnCommandUI
-main: SpawnUI\Main
-api: [3.0.0, 3.1.0, 3.2.0, 3.3.0]
-version: 0.0.1
-author: AlexItz16
-
-commands:
- spawn:
-  description: "Teleport back to Spawn"
