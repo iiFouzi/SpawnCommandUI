@@ -8,7 +8,7 @@
 - Discord: AlexItz#7047
 
 # Discord Server
-- https://discord.io/NspeNetwork1
+- https://discord.io/NspeNetwork
 
 
 
